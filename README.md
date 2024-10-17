@@ -1,4 +1,4 @@
-# Unciv-mod-example
+# Unciv-mod-memory-of-atlantis
 
 An example mod for Unciv, that adds one new Civilization.
 
