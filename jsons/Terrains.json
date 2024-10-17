@@ -1,0 +1,21 @@
+[
+	// Natural Wonders
+	{
+		"name": "Memory of Atlantis",
+		"type": "NaturalWonder",
+		"movementCost": 1,
+		"food": 10,
+		"production": 10,
+		"gold": 10,
+		"culture": 10,
+		"science": 10,
+		"faith": 10,
+		"happiness": 10,
+		"occursOn": ["Grassland"],
+		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles"],
+		"turnsInto": "Grassland",
+		"impassable": false,
+		"unbuildable": false,
+		"weight": 0
+	}
+]
